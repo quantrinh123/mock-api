@@ -2,49 +2,52 @@
   "api": {
     "v1": {
       "product": {
-  "building-block-data": {
-    "referenceId": "2aeaacae-61a0-4e98-882a-577b91cb48cc",
-    "message": "Transaction successful",
-    "status": "SUCCESS",
-    "errors": [
-      {
-        "code": "string",
-        "description": "string"
-      }
-    ],
-    "data": {
-      "Cash": {
-        "mu": 0.017,
-        "sigma": 0.00406,
-        "growth": 0.016992
-      },
-      "Conservative": {
-        "mu": 0.017,
-        "sigma": 0.00406,
-        "growth": 0.016992
-      },
-      "Balanced": {
-        "mu": 0.017,
-        "sigma": 0.00406,
-        "growth": 0.016992
-      },
-      "Enhanced": {
-        "mu": 0.017,
-        "sigma": 0.00406,
-        "growth": 0.016992
-      },
-      "Equity": {
-        "mu": 0.017,
-        "sigma": 0.00406,
-        "growth": 0.016992
-      },
-      "fund_code_map": {
-        "Cash": "PCSH",
-        "Conservative": "PMAC",
-        "Balanced": "PMAB",
-        "Enhanced": "PMAE",
-        "Equity": "PGEG"
+        "building-block-data": {
+          "referenceId": "2aeaacae-61a0-4e98-882a-577b91cb48cc",
+          "message": "Transaction successful",
+          "status": "SUCCESS",
+          "errors": [
+            {
+              "code": "string",
+              "description": "string"
+            }
+          ],
+          "data": {
+            "Cash": {
+              "mu": 0.017,
+              "sigma": 0.00406,
+              "growth": 0.016992
+            },
+            "Conservative": {
+              "mu": 0.017,
+              "sigma": 0.00406,
+              "growth": 0.016992
+            },
+            "Balanced": {
+              "mu": 0.017,
+              "sigma": 0.00406,
+              "growth": 0.016992
+            },
+            "Enhanced": {
+              "mu": 0.017,
+              "sigma": 0.00406,
+              "growth": 0.016992
+            },
+            "Equity": {
+              "mu": 0.017,
+              "sigma": 0.00406,
+              "growth": 0.016992
+            },
+            "fund_code_map": {
+              "Cash": "PCSH",
+              "Conservative": "PMAC",
+              "Balanced": "PMAB",
+              "Enhanced": "PMAE",
+              "Equity": "PGEG"
+            }
+          }
+        }
       }
     }
   }
-}}}}
+}
