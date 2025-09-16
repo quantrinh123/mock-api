@@ -1,4 +1,5 @@
 {
+  "building-block-data": {
     "referenceId": "2aeaacae-61a0-4e98-882a-577b91cb48cc",
     "message": "Transaction successful",
     "status": "SUCCESS",
@@ -43,3 +44,4 @@
       }
     }
   }
+}
